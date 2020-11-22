@@ -1,2 +1,3 @@
-# -nf-n-ty
+# infinity
 ınfınıty discord bot
+DEVELOPER BY AMONTISCY
